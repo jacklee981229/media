@@ -8,3 +8,5 @@ Photos and videos for [Jack's Space](https://jacklee981229.github.io/), served b
   edited by hand.
 - **`projects/showcase.mp4`**: the video on the [Projects page](https://jacklee981229.github.io/projects/), made in its
   own project (showcase-video) and copied here after each render.
+- **`music/`**: the songs of the site's music player, from Pixabay (their licence; each song's page is linked in the
+  player), AAC at 96 kbps. The list the player reads, with each song's title, artist and waveform, is in the site's repo.
